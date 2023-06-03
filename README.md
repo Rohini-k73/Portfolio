@@ -1,6 +1,8 @@
 # Rohini Kulkarni Portfolio
 
-The most impressive Portfolio websites in the world use 3D graphics and animations to bring their content to life. 
+link- https://portfolio-omega-orcin-79.vercel.app/
+
+The most impressive Portfolio websites in the world use 3D graphics and animations to bring their content to life.
 
 #Technologies
 
@@ -10,11 +12,10 @@ The most impressive Portfolio websites in the world use 3D graphics and animatio
 
 3.TailwindCSS - a popular utility-first CSS styling framework
 
-4.Framer Motion - the most popular library used to bring your React website to life with animations 
+4.Framer Motion - the most popular library used to bring your React website to life with animations
 
 #I learnt how to:
 Load, create and customize stunning 3D models and geometries with various lights, as well as understand the 3D world with a camera and positioning of an object in space.
 
 Implement sending emails through a form on the website
 Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload
-
