@@ -205,18 +205,18 @@ import {
     {
       name: "Netflix Clone",
       description:
-        "Netflix clone with bootstrap",
+        "Netflix clone",
       tags: [
         {
-          name: "Html",
+          name: "Html and CSS",
           color: "blue-text-gradient",
         },
+        // {
+        //   name: "",
+        //   color: "green-text-gradient",
+        // },
         {
-          name: "Css",
-          color: "green-text-gradient",
-        },
-        {
-          name: "Bootstrap",
+          name: "React",
           color: "pink-text-gradient",
         },
       ],
